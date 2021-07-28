@@ -11,6 +11,7 @@
 - 🌱 Enjoy building things to help others & solve problems
 - 🎯 Goals: Contribute to Open-Source Projects & continue to Secure the world by finding & disclosing more vulnerabilities.
 
+---
 
 ### Connect with me:
 
@@ -20,7 +21,6 @@
 
 <br />
 
----
 
 ### Languages, Skills, and Technologies:
 #### Languages:
@@ -32,7 +32,7 @@
 #### Skills:
 - 🌐 Full Stack Development (Front End, Backend, Hosting, Everything needed to get something into production)
 - 👨‍💻 Cyber security (Research, Penetration Testing, Web app testing, Code review/audit)
-- 🖊️ Report Writing (Easy to understand, clear, & direct Reports that make fixing issues simple)
+- 🖊️ Report Writing (Easy to understand, clear, & direct reports that make fixing issues simple)
 
 #### Technologies:
 - <img align="left" alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> React
@@ -44,9 +44,6 @@
 - <img align="left" alt="Terminal" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> Linux
 - <img align="left" alt="HTML5" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML/HTML5
 - <img align="left" alt="CSS3" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS/CSS3
-
-<br />
-<br />
 
 ---
 
