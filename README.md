@@ -11,7 +11,7 @@
 
 - 📕 I love to learn and pride myself in being a quick learner.
 - 🔭 Love to work with others on all sorts of Projects & Solutions.
-- 🌱 Currently learning GraphQL, C, and TypeScript.2
+- 🌱 Currently learning GraphQL, C, and TypeScript.
 - 🤝 Wanting to collaborate on open source projects and anything that helps others and solves problems.
 - 🎯 Goals: contribute to Open-Source Projects & continue finding & disclosing more vulnerabilities.
 
@@ -49,12 +49,13 @@
 - <img align="left" alt="Terminal" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> Linux
 - <img align="left" alt="HTML5" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML/HTML5
 - <img align="left" alt="CSS3" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS/CSS3
-<br/>
 
 ---
 
 ### Github Stats:
 ![N3M0dropservers's GitHub Stats](https://github-readme-stats.vercel.app/api?username=N3M0dropserver&show_icons=true&count_private=true&theme=tokyonight)
+
+---
 
 #### Thanks For Reading Looking Forward To Working With You!
 
