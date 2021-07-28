@@ -2,7 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=ZacWesleyBrown.com&style=for-the-badge&url=https%3A%2F%2Fzacwesleybrown.com)](https://zacwesleybrown.com)
 [![Website Blog](https://img.shields.io/website?label=My%20Blog&style=for-the-badge&url=https%3A%2F%2Fblog.zacwesleybrown.com)](https://blog.zacwesleybrown.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?label=Zac%20Wesley-Brown&style=for-the-badge&logo=linkedin&url=https://linkedin.com/in/zac-wesley-brown)](https://linkedin.com/in/zac-wesley-brown)
 [![Twitter Follow](https://img.shields.io/twitter/follow/N3M0dropserver?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FN3M0dropserver&screen_name=N3M0dropserver)
+
+
 
 ## I'm a Hacker, Developer, and Student!
 
@@ -19,6 +22,7 @@
 [<img align="left" alt="zacwesleybrown.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlemessages.svg" />][website]
 [<img align="left" alt="blog.zacwesleybrown.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
 [<img align="left" alt="N3M0dropserver | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Zac Wesley-Brown | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -49,11 +53,10 @@
 
 ---
 
-<br/>
-
 ### Github Stats:
 ![N3M0dropservers's GitHub Stats](https://github-readme-stats.vercel.app/api?username=N3M0dropserver&show_icons=true&count_private=true&theme=tokyonight)
 
+#### Thanks For Reading Looking Forward To Working With You!
 
 
 <!-- ### 📕 Latest Blog Posts -->
