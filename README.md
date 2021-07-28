@@ -4,12 +4,13 @@
 [![Website Blog](https://img.shields.io/website?label=My%20Blog&style=for-the-badge&url=https%3A%2F%2Fblog.zacwesleybrown.com)](https://blog.zacwesleybrown.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/N3M0dropserver?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FN3M0dropserver&screen_name=N3M0dropserver)
 
-## I'm a Hacker, Developer, Learner!
+## I'm a Hacker, Developer, and Student!
 
-- 📕 I love to learn and pride myself in being a quick learner
-- 🔭 Love to work with others on all sorts of Projects & Solutions
-- 🌱 Enjoy building things to help others & solve problems
-- 🎯 Goals: Contribute to Open-Source Projects & continue to Secure the world by finding & disclosing more vulnerabilities.
+- 📕 I love to learn and pride myself in being a quick learner.
+- 🔭 Love to work with others on all sorts of Projects & Solutions.
+- 🌱 Currently learning GraphQL, C, and TypeScript.2
+- 🤝 Wanting to collaborate on open source projects and anything that helps others and solves problems.
+- 🎯 Goals: contribute to Open-Source Projects & continue finding & disclosing more vulnerabilities.
 
 ---
 
@@ -24,10 +25,10 @@
 
 ### Languages, Skills, and Technologies:
 #### Languages:
-- <img align="left" alt="Node.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> NodeJs | (Websites, Web Apps, Mobile/Desktop App)
-- <img align="left" alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> Javascript | (Front end interactions, Front end styling)
-- <img align="left" alt="Python" width="20px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png" /> Python | (Scripting, Large OOB systems)
-- <img align="left" alt="Bash" width="20px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/bash/bash.png" /> Bash | (scripting)
+- <code><img align="left" alt="Node.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"`/></code> NodeJs | (Websites, Web Apps, Mobile/Desktop App)
+- <code><img align="left" alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/></code> Javascript | (Front end interactions, Front end styling)
+- <code><img align="left" alt="Python" width="20px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png"/></code> Python | (Scripting, Large OOB systems)
+- <code><img align="left" alt="Bash" width="20px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/bash/bash.png"/></code> Bash | (scripting)
 
 #### Skills:
 - 🌐 Full Stack Development (Front End, Backend, Hosting, Everything needed to get something into production)
@@ -35,20 +36,23 @@
 - 🖊️ Report Writing (Easy to understand, clear, & direct reports that make fixing issues simple)
 
 #### Technologies:
-- <img align="left" alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> React
-- <img align="left" alt="React-Native" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" /> React Native
-- <img align="left" alt="Express" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /> Express JS
-- <img align="left" alt="MongoDB" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> MongoDB
-- <img align="left" alt="Git" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> Git
-- <img align="left" alt="GitHub" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> GitHub
-- <img align="left" alt="Terminal" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> Linux
-- <img align="left" alt="HTML5" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> HTML/HTML5
-- <img align="left" alt="CSS3" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> CSS/CSS3
+- <code><img align="left" alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code> React
+- <code><img align="left" alt="React-Native" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" /></code> React Native
+- <code><img align="left" alt="Express" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /></code> Express JS
+- <code><img align="left" alt="MongoDB" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /></code> MongoDB
+- <code><img align="left" alt="Git" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></code> Git
+- <code><img align="left" alt="GitHub" width="20px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code> GitHub
+- <code><img align="left" alt="Terminal" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></code> Linux
+- <code><img align="left" alt="HTML5" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code> HTML/HTML5
+- <code><img align="left" alt="CSS3" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code> CSS/CSS3
+<br/>
 
 ---
 
 ### Github Stats:
 ![N3M0dropservers's GitHub Stats](https://github-readme-stats.vercel.app/api?username=N3M0dropserver&show_icons=true&count_private=true&theme=tokyonight)
+
+
 
 <!-- ### 📕 Latest Blog Posts -->
 
