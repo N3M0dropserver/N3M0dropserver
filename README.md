@@ -23,10 +23,9 @@
 [<img align="left" alt="blog.zacwesleybrown.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][blog]
 [<img align="left" alt="N3M0dropserver | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Zac Wesley-Brown | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br/>
 
-<br />
 ---
-
 
 ### Languages, Skills, and Technologies:
 #### Languages:
