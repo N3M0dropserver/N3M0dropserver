@@ -11,7 +11,7 @@
 
 - 📕 I love to learn and pride myself in being a quick learner.
 - 🔭 Love to work with others on all sorts of Projects & Solutions.
-- 🌱 Currently learning GraphQL, C, and TypeScript.
+- 🌱 Currently learning GraphQL, and TypeScript.
 - 🤝 Wanting to collaborate on open source projects and anything that helps others and solves problems.
 - 🎯 Goals: contribute to Open-Source Projects & continue finding & disclosing more vulnerabilities.
 
@@ -32,6 +32,7 @@
 - <img align="left" alt="Node.js" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/> NodeJs | (Websites, Web Apps, Mobile/Desktop App)
 - <img align="left" alt="JavaScript" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> Javascript | (Front end interactions, Front end styling)
 - <img align="left" alt="Python" width="20px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png"/> Python | (Scripting, Large OOB systems)
+- <img align="left" alt="Rust" width="20px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/rust/rust.png"/> Rust | Applications
 - <img align="left" alt="Bash" width="20px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/bash/bash.png"/> Bash | (scripting)
 
 #### Skills:
