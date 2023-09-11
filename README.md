@@ -7,11 +7,11 @@
 
 
 
-## I'm a Hacker, Developer, and Student!
+## I'm a Leader, Security Researcher, and Developer!
 
 - 📕 I love to learn and pride myself in being a quick learner.
 - 🔭 Love to work with others on all sorts of Projects & Solutions.
-- 🌱 Currently learning GraphQL, and TypeScript.
+- 🌱 Currently learning bun, performance optimisations and Network Engineering.
 - 🤝 Wanting to collaborate on open source projects and anything that helps others and solves problems.
 - 🎯 Goals: contribute to Open-Source Projects & continue finding & disclosing more vulnerabilities.
 
